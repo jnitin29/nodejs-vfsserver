@@ -25,7 +25,7 @@ Walkthrough Gif:
 1. Clone the repo:
 
     ```bash
-    git clone git@github.com:CrabDude/nodejs-ls.git
+    git clone https://github.com/jnitin29/nodejs-vfsserver.git
     ```
 
 
