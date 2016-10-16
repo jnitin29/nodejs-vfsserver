@@ -1,6 +1,5 @@
-# Parallel Asynchronous Recursive `ls`
+# Week 2 Challenge - VFS Server
 
-Hapi CRUD
 
 Time spent: 3 hours
 
